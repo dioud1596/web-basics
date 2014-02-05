@@ -1,0 +1,12 @@
+# Logfile created on 2014-02-05 11:18:38 +0100 by logger.rb/41954
+I, [2014-02-05T11:18:38.216601 #37604]  INFO -- : 0:  rack (1.5.2) from /Users/edouardrudolf/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-02-05T11:18:38.217015 #37604]  INFO -- : 0:  rack-protection (1.5.2) from /Users/edouardrudolf/.rvm/gems/ruby-2.0.0-p353/specifications/rack-protection-1.5.2.gemspec
+I, [2014-02-05T11:18:38.217240 #37604]  INFO -- : 0:  tilt (1.4.1) from /Users/edouardrudolf/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-02-05T11:18:38.217457 #37604]  INFO -- : 0:  sinatra (1.4.4) from /Users/edouardrudolf/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.4.4.gemspec
+I, [2014-02-05T11:18:38.217667 #37604]  INFO -- : 0:  bundler (1.5.1) from /Users/edouardrudolf/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
+I, [2014-02-05T11:56:01.207794 #37783]  INFO -- : 0:  awesome_print (1.2.0) from /Users/edouardrudolf/.rvm/gems/ruby-2.0.0-p353/specifications/awesome_print-1.2.0.gemspec
+I, [2014-02-05T11:56:01.208609 #37783]  INFO -- : 0:  rack (1.5.2) from /Users/edouardrudolf/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-02-05T11:56:01.208880 #37783]  INFO -- : 0:  rack-protection (1.5.2) from /Users/edouardrudolf/.rvm/gems/ruby-2.0.0-p353/specifications/rack-protection-1.5.2.gemspec
+I, [2014-02-05T11:56:01.209092 #37783]  INFO -- : 0:  tilt (1.4.1) from /Users/edouardrudolf/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-02-05T11:56:01.209303 #37783]  INFO -- : 0:  sinatra (1.4.4) from /Users/edouardrudolf/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.4.4.gemspec
+I, [2014-02-05T11:56:01.209503 #37783]  INFO -- : 0:  bundler (1.5.1) from /Users/edouardrudolf/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec

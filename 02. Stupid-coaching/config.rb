@@ -6,5 +6,5 @@ configure do
 end
 
 # Load controllers and models
-Dir[File.join(APP_ROOT, 'app', 'controllers', '*.rb')].each { |file| require file }
+Dir[File.join(APP_ROOT, 'app', 'Routers', '*.rb')].each { |file| require file }
 Dir[File.join(APP_ROOT, 'app', 'models', '*.rb')].each { |file| require file }
