@@ -1,3 +1,10 @@
 <!--1. List all the albums in $albums and print their details-->
+liste des albums:
+
 <!--2. Add a link, for each album of the list, to its show view-->
+<% $albums.each_with_index do |album, i| %>
+<p><a href=<%= "/#{i}" %>><%= album.to_s %></a></p>
+<% end %>
+
 <a href="/new">Add an album</a>
+

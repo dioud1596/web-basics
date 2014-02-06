@@ -9,6 +9,10 @@ class Album
     @artist = args[:artist]
     @year = args[:year]
   end
+
+  def self.list
+    $albums
+  end
   
   def save
     $albums << self
